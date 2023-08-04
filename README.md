@@ -41,5 +41,10 @@ for i = 1 to n do
 * C
 * C++
 * COBOL
+* Go
+* Haskell
 * Julia
 * Python
+* R
+* Ruby
+* SQL
