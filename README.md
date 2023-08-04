@@ -40,11 +40,16 @@ for i = 1 to n do
 ### Languages
 * C
 * C++
+* C#
 * COBOL
 * Go
 * Haskell
+* Java
+* Javascript
 * Julia
 * Python
 * R
 * Ruby
 * SQL
+* Swift
+* Typescript
