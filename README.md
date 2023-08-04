@@ -38,7 +38,8 @@ for i = 1 to n do
 ```
 
 ### Languages
-* Python
-* Julia
 * C
 * C++
+* COBOL
+* Julia
+* Python
