@@ -4,23 +4,23 @@
 Print the numbers from 1 to 100 on new lines. For any number divisible by 3, print "Fizz" instead of the corresponding number. For any number divisible by 5, print "Buzz" instead of the corresponding number. For any number divisible by 3 and 5, print "FizzBuzz" instead of the corresponding number. 
 
 ### Expected Output
-1
-2
-Fizz
-4
-Buzz
-Fizz
-7
-8
-Fizz
-Buzz
-11
-Fizz
-13
-14
-FizzBuzz
-16
-⋮
+1\
+2\
+Fizz\
+4\
+Buzz\
+Fizz\
+7\
+8\
+Fizz\
+Buzz\
+11\
+Fizz\
+13\
+14\
+FizzBuzz\
+16\
+⋮\
 Buzz
 
 ### General Goal
