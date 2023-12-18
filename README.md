@@ -42,6 +42,7 @@ for i = 1 to n do
 * C++
 * C#
 * COBOL
+* Fortran
 * Go
 * Haskell
 * Java
